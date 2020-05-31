@@ -49,4 +49,4 @@ This repository has been created to store and share project code as part QA hack
  As this project is developed by following Page Object Model design pattern hence all the locators are maintained in separate folder called ```com.test.PageObjects```. For any type of changes or modification specific class file can be refered. 
  
 ## Random Issues 
- As MakeMyTrip is being used by so many people globally so it can be possible that during first execution script might fail for sync issue though all the standared methods has been followed to handle this but in case this situation, give a second try.
+ As MakeMyTrip is being used by so many people globally so it can be possible that during first execution script might fail for sync issue though all the standared methods has been followed to handle this but in case this situation occurs, give a second try.
